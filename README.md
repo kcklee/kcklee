@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with languages
 - 💬 Ask me about tennis, tv, movies
 - 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I lived in Europe for 2 years
 -->
