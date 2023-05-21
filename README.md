@@ -4,12 +4,17 @@
 
 👨🏻‍🎓 I’m currently studying computer science at the University of British Columbia (UBC). I also have a MPhil in Bioscience Enterprise (University of Cambridge) and a BSc in Microbiology and Immunology with Distinction (UBC).
 
-🎾🏂📺🎥🕹✈️👨‍🍳 In my free time, I love playing tennis, travelling, snowboarding, watching tv/movies, playing video games and cooking/baking.
+I love spending my free time doing the following things: 
+- 🎾 tennis
+- 🛫 travelling
+- 🏂 snowboarding
+- 📺🎥🕹 tv/movies/video games
+- 👨‍🍳 cooking/baking
 
 🤝 Let’s connect!
-Website: https://kcklee.github.io/
-LinkedIn: https://www.linkedin.com/in/kcklee/
-Email: lee.kevin.ck@gmail.com
+- Website: https://kcklee.github.io/
+- LinkedIn: https://www.linkedin.com/in/kcklee/
+- Email: lee.kevin.ck@gmail.com
 
 <!--
 **kcklee/kcklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
