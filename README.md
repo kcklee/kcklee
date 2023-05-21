@@ -4,6 +4,7 @@
 
 👨🏻‍🎓 I’m currently studying computer science at the University of British Columbia (UBC). I also have a MPhil in Bioscience Enterprise (University of Cambridge) and a BSc in Microbiology and Immunology with Distinction (UBC).
 
+***Hobbies***
 I love spending my free time doing the following things: 
 - 🎾 tennis
 - 🛫 travelling
@@ -11,7 +12,7 @@ I love spending my free time doing the following things:
 - 📺🎥🕹 tv/movies/video games
 - 👨‍🍳 cooking/baking
 
-🤝 Let’s connect!
+***Let's Connect!***
 - Website: https://kcklee.github.io/
 - LinkedIn: https://www.linkedin.com/in/kcklee/
 - Email: lee.kevin.ck@gmail.com
