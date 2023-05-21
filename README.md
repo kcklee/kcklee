@@ -2,7 +2,7 @@
 
 ***About Me***
 
-👨🏻‍🎓 I’m currently studying computer science at the University of British Columbia (UBC). I also have a MPhil in Bioscience Enterprise (University of Cambridge) and a BSc in Microbiology and Immunology with Distinction (UBC).
+I’m currently studying computer science at the University of British Columbia (UBC). I also have a MPhil in Bioscience Enterprise (University of Cambridge) and a BSc in Microbiology and Immunology with Distinction (UBC).
 
 ***Hobbies***
 
