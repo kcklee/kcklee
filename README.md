@@ -16,7 +16,6 @@ I love spending my free time doing the following things:
 ***Let's Connect!***
 - Website: https://kcklee.github.io/
 - LinkedIn: https://www.linkedin.com/in/kcklee/
-- Email: lee.kevin.ck@gmail.com
 
 <!--
 **kcklee/kcklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
